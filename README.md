@@ -11,3 +11,5 @@ for Heroku deployment:
 check https://devcenter.heroku.com/articles/git
 for deployment using git 
 
+OR 
+check https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
